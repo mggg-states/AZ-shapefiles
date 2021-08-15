@@ -58,7 +58,7 @@ Some very limited merging of precincts in the original shapefile was necessary t
 * `SEND`: State Senate district
 
 ## Projection
-This shapefile uses a NAD83/Arizona Central (ft) projection (ESPG:2223).
+This shapefile uses a NAD83/Arizona Central (ft) projection (EPSG:2223).
 
 ## Rating
 We give these shapefiles an A rating. All data was obtained from the state government and was processed by MGGG staff.
